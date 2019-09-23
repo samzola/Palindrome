@@ -1,3 +1,10 @@
+/*
+ * Author: Sam Zola
+ * Date: 9/23/2019
+ * Project: This program takes in an input from the user and outputs if it is a palindrome or not.
+ */
+
+
 #include <iostream>
 #include <cstring>
 #include <bits/stdc++.h>
